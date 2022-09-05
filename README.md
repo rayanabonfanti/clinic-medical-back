@@ -2,11 +2,11 @@
 API de criação de contas de pacientes e médicos para acesso de planos de saúde e fazer consultas médicas agendadas. O objetivo da aplicação é criar consultar agendadas no Ambiente sendo disponibilizado para visualização.
 
 ## Sistema 
-•	Pré-requisitos
-•	Instalação
-•	Executando a Instalação
-•	Executando os testes
-•	Membros do Time
+- Pré-requisitos
+-	Instalação
+-	Executando a Instalação
+-	Executando os testes
+-	Membros do Time
 
 ## Pré-requisito
 •	start.spring.io
