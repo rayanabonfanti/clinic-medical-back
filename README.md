@@ -9,8 +9,6 @@ API de criação de contas de pacientes e médicos para acesso de planos de saú
 -	Membros do Time
 
 ## **Pré-requisito**
--	**start.spring.io**<br>
-Criar o projeto na plataformar com a única dependência "web" com a mesma versão do Java instalado em sua máquina, maven, última versão do spring boot e baixe com JAR.
 -	**Java 1.8 ou +**<br>
 É necessário instalar o JDK na máquina e fazer as devidas configurações nas variáveis do ambiente.
 -	**GIT**<br>
