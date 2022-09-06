@@ -27,7 +27,8 @@ OBS: Quando iniciar o projeto, clique no pom.xml e clique no ícone "add as mave
 
 ## **Executando a Aplicação**
 -	Após rodar o comando do Maven<br>
--	Navegue até o diretório src/main que chegue até o arquivo "AppClinicaMedicaApplication" e faça o debug para rodar a aplicação
+-	Navegue até o diretório src/main que chegue até o arquivo "AppClinicaMedicaApplication" e faça o debug para rodar a aplicação<br>
+- Após isso, pode executar "http://localhost:8080/h2-console" e digitar o caminho, o usuário e a senha para acessar o database.
 
 ## **Executando os Testes**
 -	Execute o comando mvn compile test<br>
