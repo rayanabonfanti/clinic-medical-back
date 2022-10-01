@@ -49,5 +49,8 @@ OBS: Quando iniciar o projeto, clique no pom.xml e clique no ícone "add as mave
 -	**configuration:** contém as classes de configuração em geral, também de spring security.
 -	**test:** contém as classes dividas em pastas com todos os testes da main.
 
+## **Documentação**
+https://docs.google.com/document/d/1HfxP9Vkh3sEEFQQwe3ey4GYFAnKpOuGe/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true
+
 ## **Membros do Time**
 -	Rayana Ribeiro Bonfanti
